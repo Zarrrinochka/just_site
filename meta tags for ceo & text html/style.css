@@ -11,7 +11,11 @@ body {
   h1 {
     font-size: 18px;
   }
-  
+
+ code {
+  font-family: "Courier New", "Courier", monospace;
+  color: #6a2cce;
+}
   .warning {
     color: red;
   }
